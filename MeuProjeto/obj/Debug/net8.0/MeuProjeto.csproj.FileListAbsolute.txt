@@ -1,0 +1,14 @@
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\giova\Desktop\programming\dio-bootcamp\xp-fullstack\construindo-sistema-hospedagem-cs\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
